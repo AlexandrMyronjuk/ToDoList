@@ -1,0 +1,43 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+}
+label, input, button {
+    background: none;
+    border: none;
+    outline: none;
+    display: block;
+}
+li {
+    list-style-type: none;
+}
+h2 {
+	text-align: center;
+    padding: 20px;
+    color: #556B2F;
+}
+button {
+	min-width: 50px;
+	min-height: 35px;
+	border-radius: 25px;
+	background: #5F9EA0;
+	color: #E0FFFF;
+	margin-right: 5px;
+}
+input {
+	width: 100%;
+	font-size: 20px;
+	padding: 5px 20px;
+}
+
+.App {
+	width: 100%;
+	max-width: 900px;
+	height: 1000px;
+	margin: 0 auto;
+	background: #DCDCDC;
+}

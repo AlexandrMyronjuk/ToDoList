@@ -1,0 +1,14 @@
+.ToDoAdd {
+	widows: 100%;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	padding: 10px 20px;
+}
+.addInp {
+	width: 100%;
+	max-width: 680px;
+	border: 1px solid #5F9EA0;
+	margin-right: 15px; 
+	background: #ffffff;
+}

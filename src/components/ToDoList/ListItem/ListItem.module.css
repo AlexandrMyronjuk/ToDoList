@@ -1,0 +1,29 @@
+.ListItem {
+	width: 100%;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	margin-bottom: 10px;
+}
+.indNum {
+	font-size: 18px;
+	margin: 0px 10px 0px 5px;
+}
+.inp {
+	width: 100%;
+	max-width: 700px;
+	margin-right: 15px; 
+	background: #DCDCDC;
+}
+.inp input {
+	width: 100%;
+	color: #000000;
+}
+.inp-active {
+	background: #ffffff;
+}
+
+.delBtn:hover {
+	cursor: pointer;
+	background: #CD5C5C;
+}
